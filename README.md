@@ -1,4 +1,4 @@
-# Ex.No:2  Player movement using pawn,collectable,player health and score
+# Ex.No:3  Change the person character
 #### Name: Nithishkumar P
 #### Register number: 212221230070
 
