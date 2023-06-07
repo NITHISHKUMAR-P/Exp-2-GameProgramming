@@ -1,4 +1,4 @@
-# Ex.No:1  Player movement using pawn,collectable,player health and score
+# Ex.No:2  Player movement using pawn,collectable,player health and score
 #### Name: Nithishkumar P
 #### Register number: 212221230070
 
@@ -37,8 +37,10 @@ Remove the coin from the level by calling its Destroy function.
 ### Step 12:
 Add several instances of the Coin actor to the level and adjust their positions so that they are spread out and not too close to each other.
 
-## Output:
-### Emissive material:
+### Output:
+![image](https://github.com/NITHISHKUMAR-P/Exp-2-GameProgramming/assets/93427017/c34f9a2e-2a4f-41fb-9757-49f445cc532c)
+![image](https://github.com/NITHISHKUMAR-P/Exp-2-GameProgramming/assets/93427017/93a66dd0-19a3-422a-9811-4f5c187fdc82)
+
 ##  Redirect to levels:
 ### Step 1:
 Create a new level or open an existing one.
@@ -96,6 +98,10 @@ select the LoadScene custom event you created earlier.
 Save your changes and playtest your game. When the player
 clicks on the button in the menu, the menu widget will be removed and
 the desired level or scene will be loaded.
+### Output:
+![image](https://github.com/NITHISHKUMAR-P/Exp-2-GameProgramming/assets/93427017/b9e7041e-2eb5-406d-931e-93ab9e70c388)
+![image](https://github.com/NITHISHKUMAR-P/Exp-2-GameProgramming/assets/93427017/f1b06310-bd90-4c9b-9ec7-ac5418d0d5ee)
+
 
 ## Result:
-Thus various effects in a material such as emissive, roughness and metallic properties has been successfully implemented in Unreal Engine.
+Thus, To Create a player movement using pawn, collectible, player health, and score created and developed by Unreal Engine.
